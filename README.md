@@ -28,7 +28,7 @@ This isn't just talk – **Gemini and I are practically the same entity.** Serio
 
 Just getting started on GitHub, but I'm diving deep. My mission is to use tech for good. Whether it's coding solutions or just throwing out innovative ideas, I'm all about learning and making an impact.
 
-Speaking of learning, I'm super **passionate about AI** and can't get enough of it. I'm also really keen on venturing into **3D modeling** and **FPS game development**. Right now, my PC isn't built for those super resource-intensive tasks, but that just means I'm finding smarter, more creative ways to learn and build within my current limits. Challenge accepted!
+Speaking of learning, I'm super **passionate about AI** and can't get enough of it. I'm also really keen on venturing into **3D modeling** and **FPS gaming**. Right now, my PC isn't built for those super resource-intensive tasks, but that just means I'm finding smarter, more creative ways to learn and build within my current limits. Challenge accepted!
 
 ---
 
