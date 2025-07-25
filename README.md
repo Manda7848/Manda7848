@@ -1,6 +1,6 @@
 
 
-# What's Up, I'm Manda! 👋
+# Salut, I'm Amanda! 👋
 
 Welcome to my corner of GitHub. I'm **15 and a half years old** and I'm here to build cool stuff and make the world better, period. This repo is basically my digital footprint, showing off my projects and what drives me.
 
