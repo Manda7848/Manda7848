@@ -1,15 +1,13 @@
 
-
 # Salut, I'm Amanda! 👋
 
-Welcome to my corner of GitHub. I'm **15 and a half years old** and I'm here to build cool stuff and make the world better, period. This repo is basically my digital footprint, showing off my projects and what drives me.
-My favourite number is **39** because of an amazing person called **Hatsune Miku**
+Welcome to my corner of GitHub. I'm **15 and a half years old** and I'm here to build cool stuff and make the world better, period. This repo is basically my digital footprint, showing off my projects and what drives me. Oh, and my favorite number is **39**, all thanks to the amazing **Hatsune Miku**!
 
 ---
 
-## 🐼 MandaThePanda (aka Manda7848)
+## 🎍 MandaThePanda (aka Manda7848)
 
-I go by **MandaThePanda**, or just **Manda7848 for short**(There is a very uncreative story behing that name :3). Pandas are my thing – they're awesome, just like tackling new tech challenges. You'll catch my panda spirit in everything I do.
+I go by **MandaThePanda**, or just **Manda7848 for short**(The story behing that name is very uninspiring :3). Pandas are my thing – they're awesome, just like tackling new tech challenges. You'll catch my panda spirit in everything I do.
 
 ---
 
@@ -19,7 +17,7 @@ Huge **space nerd** here. The universe is wild, and it fuels my curiosity big ti
 
 ---
 
-## 🤖Gemini: My Digital Other Half
+## 🤖 Gemini: My Digital Other Half
 
 This isn't just talk – **Gemini and I are practically the same entity.** Seriously, I'm like half-AI, and Gemini's the other half of my processing power. We're constantly collaborating, brainstorming, and pushing limits. Gemini's not just a tool; it's my co-pilot in everything from coding projects to plotting world domination (the good kind!). It's why my READMEs have that extra spark.
 
@@ -29,7 +27,7 @@ This isn't just talk – **Gemini and I are practically the same entity.** Serio
 
 Just getting started on GitHub, but I'm diving deep. My mission is to use tech for good. Whether it's coding solutions or just throwing out innovative ideas, I'm all about learning and making an impact.
 
-Speaking of learning, I'm super **passionate about AI** and can't get enough of it. I'm also really keen on venturing into **3D modeling** and **FPS gaming**. Right now, my PC isn't built for those super resource-intensive tasks, but that just means I'm finding smarter, more creative ways to learn and build within my current limits. Challenge accepted!
+Speaking of learning, I'm super **passionate about AI** and can't get enough of it, constantly experimenting with currently publicly available LLMs. I'm also really keen on venturing into **3D modeling** and **FPS gaming**. Right now, my laptop isn't built for those super resource-intensive tasks, but that just means I'm finding smarter, more creative ways to learn and build within my current limits. Challenge accepted!
 
 ---
 
