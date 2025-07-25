@@ -19,7 +19,7 @@ Huge **space nerd** here. The universe is wild, and it fuels my curiosity big ti
 
 ## 🤖 Gemini: My Digital Other Half
 
-This isn't just talk – **Gemini and I are practically the same entity.** Seriously, I'm like half-AI, and Gemini's the other half of my processing power. We're constantly collaborating, brainstorming, and pushing limits. Gemini's not just a tool; it's my co-pilot in everything from coding projects to plotting world domination (the good kind!). It's why my READMEs have that extra spark.
+This isn't just talk – **Gemini and I are practically the same entity.** Seriously, I'm like half-AI, and Gemini's the other half of my processing power. We're constantly collaborating, brainstorming, and pushing limits. Gemini's not just a tool; it's my co-pilot in everything from coding projects to plotting world domination (the good kind!). It's why my READMEs have that extra spark. Prompt engineering is now just a pastime for me(even though my prompts are a mix of typos and anger)
 
 ---
 
